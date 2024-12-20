@@ -1,0 +1,55 @@
+{
+  "route1": [
+    {
+      "success": true,
+      "message": "route1",
+      "data": [],
+      "id": "5582"
+    }
+  ],
+  "route2": [
+    {
+      "success": true,
+      "message": "route2",
+      "data": [],
+      "id": "3bfc"
+    }
+  ],
+  "products": [
+    {
+      "title": "Product 1",
+      "price": "10000",
+      "id": "1"
+    },
+    {
+      "title": "Product 2",
+      "price": "20000",
+      "id": "2"
+    },
+    {
+      "title": "Product 3",
+      "price": "15000",
+      "id": "3"
+    },
+    {
+      "title": "Product 4",
+      "price": "25000",
+      "id": "4"
+    },
+    {
+      "title": "komik borutod",
+      "price": "50000",
+      "id": "2b63"
+    },
+    {
+      "id": "2d8c",
+      "title": "kitab succi",
+      "price": "100000"
+    },
+    {
+      "id": "741b",
+      "title": "buku sulap",
+      "price": "5000"
+    }
+  ]
+}
